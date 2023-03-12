@@ -2,9 +2,7 @@
 
 A Metropolia University project
 
-First ever programming project.
-
-Zumo robot pathfind solution for a maze.
+First ever programming project. Zumo robot pathfind solution for a maze.
 
 October 15th, 2021
 
